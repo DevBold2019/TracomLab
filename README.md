@@ -1,2 +1,0 @@
-# TracomLab
-Lab management Application

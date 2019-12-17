@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tracom Lab</string>
+    <string name="close_drawer">Close</string>
+    <string name="open_drawer">Open</string>
+</resources>
